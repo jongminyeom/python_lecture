@@ -1,2 +1,2 @@
-# python_lecture
-python 강의 자료저장소
+# 위성영상자료처리 및 실습 강의
+
